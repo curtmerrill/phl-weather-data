@@ -9,3 +9,5 @@ don’t remember what it was.
 So here's a year and half of weather data for Philadelphia.
 
 Enjoy.
+
+The data are from [OpenWeatherMap](http://openweathermap.org) and [licensed](https://openweathermap.org/terms) under a [Creative Commons Attribution-Share Alike](http://creativecommons.org/licenses/by-sa/4.0/) license.
